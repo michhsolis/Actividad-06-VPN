@@ -1,0 +1,16 @@
+/src
+  clientee.py
+  Servidor_Nodo.py
+/Docs
+  /reportefinal
+    ProyectoVPN.pdf
+  /DocsDelProyectManager
+    /minutas
+      minuta1_kickoff.pdf
+      minuta2_avances.pdf
+      minuta3_retro.pdf
+      metodologia_agil.pdf
+      okrs_cronograma.pdg
+      RetrospectivaReflexiva.pdf
+  /presentacion
+    presentación.pdf
